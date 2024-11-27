@@ -1,0 +1,22 @@
+INSERT INTO City (Name, IsActive) VALUES('Nator',0)
+INSERT INTO City (Name, IsActive) VALUES('Rajshahi',0)
+
+INSERT INTO City (Name, IsActive) VALUES('Savar', 1)
+
+SELECT * FROM City
+SELECT Id, Name, IsActive FROM City
+
+
+INSERT INTO [User](UserName, Password, Email, PhoneNo, City, Address, IsActive) VALUES('shoaib','1234','abc@gmail.com','01521422306',2,'Bongram',1)
+
+INSERT INTO [User](UserName, Password, Email, PhoneNo, City, Address, IsActive) VALUES('Raihan','1234','','01521422306',4,'',1)
+
+INSERT INTO [User](UserName, Password, Email, PhoneNo, City, Address, IsActive) VALUES('Setu','0234','abc@gmail.com','01521422307',3,'Pabna',1)
+
+INSERT INTO [User](UserName, Password, Email, PhoneNo, City, Address, IsActive) VALUES('Monir','0234','axy@gmail.com','01521422307',4,'Ataikula',1)
+
+INSERT INTO [User](UserName, Password, Email, PhoneNo, City, Address, IsActive) VALUES('Rain','0234','abc@gmail.com','01521422307',3,'Nator',0)
+
+SELECT * FROM [User]
+
+SELECT UserName, Password, Email, PhoneNo, City, Address, IsActive FROM [User]

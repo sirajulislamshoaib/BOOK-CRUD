@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\bookscrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\bookscrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|e:\\html5\\bookcrud\\bookscrud\\bookscrud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE628489-012F-4A24-86D3-F15180CC5984}|BooksCrud\\BooksCrud.csproj|solutionrelative:bookscrud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Data\\DbService.cs",
+              "RelativeDocumentMoniker": "BooksCrud\\Data\\DbService.cs",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Data\\DbService.cs",
+              "RelativeToolTip": "BooksCrud\\Data\\DbService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIA9wFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:51:24.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BooksCrud\\Models\\Book.cs",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Models\\Book.cs",
+              "RelativeToolTip": "BooksCrud\\Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:59:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooksCrud\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BooksCrud\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:53:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BooksCrud\\Models\\Category.cs",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Models\\Category.cs",
+              "RelativeToolTip": "BooksCrud\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:43:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksCrud.csproj",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\BooksCrud.csproj",
+              "RelativeDocumentMoniker": "BooksCrud\\BooksCrud.csproj",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\BooksCrud.csproj",
+              "RelativeToolTip": "BooksCrud\\BooksCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T15:40:11.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksCrud\\appsettings.json",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\appsettings.json",
+              "RelativeToolTip": "BooksCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T15:37:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Program.cs",
+              "RelativeDocumentMoniker": "BooksCrud\\Program.cs",
+              "ToolTip": "E:\\HTML5\\BOOKCRUD\\BooksCrud\\BooksCrud\\Program.cs",
+              "RelativeToolTip": "BooksCrud\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:11:06.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
